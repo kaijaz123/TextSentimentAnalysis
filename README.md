@@ -8,3 +8,4 @@ The final model will be deployed as discord bot using Amazon Web Service (AWS) a
 2. In this repo, AWS EC2 instance is chosen for the deployment. *You may use any other cloud service for deployment. 
 
 # Sample Result
+1
