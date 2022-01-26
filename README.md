@@ -9,5 +9,6 @@ The final model will be deployed as discord bot using Amazon Web Service (AWS) a
 
 # Sample Result
 The image below shows the demonstration of discord bot.
+
 ![image](https://user-images.githubusercontent.com/49195906/151190582-5d548d72-1bbb-477b-ae7b-23052a5ac8a0.png)
 
